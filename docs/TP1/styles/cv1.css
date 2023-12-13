@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: black;
 }
 header {
     color:whitesmoke;
@@ -15,4 +15,12 @@ a {
 
 p {
     color:lightskyblue;
+}
+
+cobarde {
+    color:lightblue;
+}
+
+time {
+    color:aqua;
 }
