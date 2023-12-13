@@ -1,9 +1,5 @@
-head {
-    color:gray;
-}
-
-body{
-    color:gray;
+* {
+    background-color: gray;
 }
 
 h1{
