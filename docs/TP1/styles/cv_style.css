@@ -1,11 +1,18 @@
-* {
+body {
     background-color: gray;
+}
+header {
+    color:whitesmoke;
 }
 
 h1{
-    color:beige;
+    color:cyan;
 }
 
 a {
     color:blueviolet;
+}
+
+p {
+    color:lightskyblue;
 }
